@@ -1,0 +1,6 @@
+git pull
+git push
+git add <FILE>
+git commit -m "commit"
+git status
+git clone
