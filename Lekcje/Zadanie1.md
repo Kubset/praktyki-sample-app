@@ -1,3 +1,5 @@
+## Git
+
 1. załóż konto na github: https://github.com/
 2. Podziel się nazwą użytkownika abym mógł dodać cie do repozytorium praktyk.
 3. Wygeneruj token autoryzacyjny abyś mógł robić zmiany w repozytorium. Wskazówki - na koncie w github w "developer settings".
@@ -9,3 +11,14 @@ git add <FILE>
 git commit -m "commit"
 git status
 ```
+
+## VsCode
+
+1. zainstaluj vscode
+2. Przejrzyj dostępne rozszerzenia - zalecane "Python" do kontroli składni. Jest też wiele rozszerzeń np do gita lub innych języków programowania
+
+
+## Python
+1. Zainstaluj pythona3 - najlepiej 3.8
+2. Sprawdzenie czy python jest dobrze zainstalowany - wejdź w CMD i wpisz 'python --version' (lub python3 --version) - powinno zwrócić wersje zainstalowanego oprogramowania.
+
