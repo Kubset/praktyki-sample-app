@@ -6,3 +6,6 @@ po włączeniu skryptu (python <plik.py) program:
 zapyta o liczbę1 i będzie oczekiwał liczby od użytkownika
 zapyta o liczbe2 i będzie oczekiwał liczby od użytkownika.
 po otrzymaniu liczb zwróci wiadomośc Suma: <suma liczb> i zakończy działanie.
+
+
+Dodatkowo - dodaj validacje na wejściach - np jeżeli użytkownik poda znaki zamiast liczby lub pusty input - zwróc odpowiednią wiadomość i zapytaj jeszcze raz
