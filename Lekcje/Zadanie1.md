@@ -13,6 +13,7 @@ git commit -m "commit"
 git status
 git clone
 ```
+Pamiętaj aby wypchnąć swój kod na server githuba (git push)
 
 ## VsCode
 
