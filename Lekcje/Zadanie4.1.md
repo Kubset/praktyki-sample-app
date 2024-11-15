@@ -38,3 +38,11 @@ Oczekiwany rezultat pierwszego etapu:
 #########################
 
 @ to bohater który będzie mógł poruszać się po . ale nie będzie mógł po #
+
+
+
+### Uwagi - do poprawy przed przejściem do kolejnego kroku.
+- na terminalu powinna być widoczna gra tylko z jednego stanu - obecnie po zatwierdzeniu enterem pokazuje się klatka po klatce. Wskazówka - czyszczenie terminala po każdej iteracji
+- ruch powinien się odbywać płynnie - to znaczy nie powinno być konieczne zatwierdzanie enterem każdego ruchu
+
+- na przyszłośc - commity do gita powinny odbywać się częściej, z mniejszymi porcjami kodu - ułatwia to pracę w z zespole. Nie musi być wrzucony "na gotowo"
